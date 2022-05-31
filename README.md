@@ -16,7 +16,7 @@ Project Self Service with [VueJs](https://cli.vuejs.org/guide/creating-a-project
 * node: 16.14.0
 
 # Installation
-* git clone https://github.com/ioanamatac/-Self-Service-Machine.git
+* git clone https://github.com/ioanamatac/self-service-machine.git
 * cd project
 * npm install
 * npm run serve
