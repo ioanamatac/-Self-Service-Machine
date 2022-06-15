@@ -11,12 +11,13 @@
 Project Self Service with [VueJs](https://cli.vuejs.org/guide/creating-a-project.html).
 
 # Technologies
+* O.S. Windows 11
 * VueJs 3
 * npm: 8.5.4
 * node: 16.14.0
 
 # Installation
-* git clone https://github.com/ioanamatac/-Self-Service-Machine.git
+* git clone https://github.com/ioanamatac/self-service-machine.git
 * cd project
 * npm install
 * npm run serve
